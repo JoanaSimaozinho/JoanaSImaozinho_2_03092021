@@ -370,4 +370,80 @@ li {
     border-bottom: transparent;
   }
 
+   /* Section 1 */
+  /* Champ de saisie */
   
+  .margintopbottom {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .width130 {
+    width: 130px;
+  }
+  
+  .divrecherche {
+    border-radius: 0 15px 15px 0;
+    width: 220px;
+  }
+  
+  .spacearound {
+    justify-content: space-around;
+  }
+  
+  /* Filtres */
+  .displayflexfiltres {
+    display: flex;
+  }
+  
+  .margin10 {
+    margin: 10px;
+  }
+  
+  /* Div Aside et section */
+  
+  .divasidesection {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+  
+  /* Aside */
+  .borderradius25 {
+    border-radius: 25px;
+  }
+  
+  .aside {
+    width: 40%;
+  }
+  
+  /* Section 2 */
+  .heightsection {  /* A voir si c'est necessaire */
+    height: auto;
+  }
+  
+  .section2 {
+    background-color: #F2F2F2;
+    margin-right: 30px;
+  }
+  
+  .divsection2 {
+    display: flex;
+    margin: 20px;
+  }
+  
+  .width95 {
+    width: 95%;
+  }
+  
+  .heightfigures {
+    height: 240px;
+  }
+  
+  .boxshadownone {
+    box-shadow: none;
+  }
+  
+  .marginblocks2 {
+    margin-block-end: revert;
+  }
