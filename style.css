@@ -7,32 +7,59 @@
 }
 
 body {
-    font-family: 'Raleway';
-  }
+  font-family: 'Raleway';
+}
       
-  main {
-    max-width: 1400px;
-    margin: auto;
-  }
+main {
+  max-width: 1400px;
+  margin: auto;
+}
     
-  /* Élèments principaux */
-  .width100 {
-    width: 100%; 
-  }
+/* Élèments principaux */
+.width100 {
+  width: 100%; 
+}
       
-  /* Couleurs */
-  .colorblue {
-    color: #0065FC;
-  }
+/* Couleurs */
+.colorblue {
+  color: #0065FC;
+}
       
-  .colorblack {
-    color: #000;
-  }
+.colorblack {
+  color: #000;
+}
       
-  .colorwhite {
-    color: #FFFFFF;
-  }
+.colorwhite {
+  color: #FFFFFF;
+}
       
-  .colorgris {
-    color: #F2F2F2;
-  }
+.colorgris {
+  color: #F2F2F2;
+}
+
+/* Background-colors */
+.backgroundcolorgris {
+  background-color: #F2F2F2;
+}
+    
+.backgroundcolorblue {
+  background-color: #0065FC;
+}
+    
+/* Élèments des textes*/
+.textalign {
+  text-align : center;
+}
+    
+.textdecoration {
+  text-decoration: none;
+}
+    
+.bold {
+  font-weight: bold;
+  font-size: large;
+}
+  
+.Raleway2 {
+  font-family: 'Raleway2';
+}
