@@ -63,3 +63,33 @@ main {
 .Raleway2 {
   font-family: 'Raleway2';
 }
+
+/* Display : flex */
+.displaycenter {
+  display: flex;
+  justify-content: center;
+}
+    
+.flexbetween {
+  display: flex;
+  justify-content: space-between;
+}
+    
+.flexstart {
+  display: flex;
+  justify-content: flex-start;
+}
+    
+.flexcolumn {
+  display: flex;
+  flex-direction: column;
+}
+    
+.displayflex {
+  display: flex;
+}
+    
+.alignitemscenter {
+  align-items: center;
+}
+    
