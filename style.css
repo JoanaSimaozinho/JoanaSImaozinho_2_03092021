@@ -1,0 +1,7 @@
+/* Déclaration de la police */ 
+@font-face {
+  font-family: 'Raleway';
+  src: url(police/Raleway-VariableFont_wght.ttf);
+  font-family: 'Raleway2';
+  src: url(police/Raleway-Bold.ttf);
+}
