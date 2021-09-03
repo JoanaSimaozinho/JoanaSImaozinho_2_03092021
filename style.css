@@ -505,3 +505,17 @@ li {
     margin-right: auto;
   }
 }
+
+/* Média Queries Desktop 1400px */
+@media screen and (min-width: 1400px) {
+  /* Section 2 */
+  .figures2 {
+    width: 95%;
+  }
+  
+  /* Section 3 */
+  .figures3 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
