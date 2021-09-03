@@ -276,3 +276,12 @@ footer {
 li {
   list-style: none;
 }
+
+/* Média queries */
+/* Média Quéries téléphone 500px */
+@media screen and (min-width: 500px) {
+  .widthmargin {
+    width: 80%;
+    margin: auto;
+  }
+}
