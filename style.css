@@ -285,3 +285,89 @@ li {
     margin: auto;
   }
 }
+
+/* Média tablettes min-width 700px */
+@media screen and (min-width: 700px) {
+  /* Champ de saisie */
+  .width50 {
+    width: 50%;
+  }
+  
+  /* Filtres */
+  .flex {
+    display: flex;
+  }
+  
+  .marginauto {
+    margin: auto;
+  }
+  
+  /*div aside et section 2 */
+  /* Aside et section 2 */
+  .displaycolumn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Aside */
+  .figure {
+    height: 200px;
+  }
+  
+  .figure img {
+    height: 200px;
+    width: 140px;
+  }
+  
+  .marginblock {
+    margin-block: auto;
+  }
+  
+  .margintop60fig {
+    margin-top: 60px;
+  }
+}
+  
+/* Média Ipad pro min-width 1024px*/
+@media screen and (min-width: 1024px) {
+  /* Elèments principaux */
+  .flexinitial {
+  display: flex;
+    flex-direction: initial;
+  }
+  
+  .height200 {
+    height: 200px;
+  }
+  
+  .margin10 {
+    margin: 10px;
+  }
+  
+  .width50logo {
+    width: 50%;
+  }
+  
+  .height130 {
+    height: 130px;
+  }
+  
+  .itemcenter {
+    align-items: center;
+  }
+  
+  /* Header */
+  .sinscrire {
+    justify-content: center;
+  }
+  
+  .divhebergements {
+    border-top: 3px solid #0065FC;
+  }
+    
+  .borderbottomtransparent {
+    border-bottom: transparent;
+  }
+
+  
