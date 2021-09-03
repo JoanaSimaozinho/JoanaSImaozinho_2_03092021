@@ -93,3 +93,104 @@ main {
   align-items: center;
 }
     
+/* Header */
+.borderhebergements {
+  border-bottom: 3px solid #0065FC;
+}
+    
+.borderactivites {
+  border-bottom: 3px solid #F2F2F2;
+}
+    
+.padding {
+  padding: 10px;
+}
+    
+.hauteurlargeur50 {
+  width: 50%;
+  height: 50px;
+}
+    
+.inscription {
+  font-family: 'Raleway2';
+}
+  
+/* Section 1 */
+/* Champ de saisie */
+.saisie {
+  border-radius: 10px; 
+  border: 0.5px solid #F2F2F2;
+}
+    
+.cadre {
+  border-radius: 0 10px 10px 0;
+  font-size: 18px;
+  border: none;
+  padding-left: 20px; 
+  font-weight: bold;
+}
+    
+.recherche {
+  cursor: pointer;
+  border-radius: 15px;
+}
+    
+.lieu { 
+  border-radius: 10px 0 0 10px;
+}
+
+.height50 { 
+  height: 50px;
+}
+    
+/* Filtres */
+/* utilisé pour les filtres et l'icon info */
+.info {
+  width: 150px;
+  height: 42px;
+  margin-top: 10px;
+  transition: 2s;
+}
+    
+.border {
+  border: 2px solid #F2F2F2;
+}
+
+.borderradius {
+  border-radius: 25px;
+}
+    
+.info:hover {
+  background-color: #0065FC;
+}
+    
+.infoanimaux {
+  border-radius: 40px;
+  width: 200px;
+}
+    
+.icons {
+  background-color: #deebff;
+  padding: 2px;
+}
+    
+.paddingfiltres {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+    
+.margefiltres {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+    
+/* Icon info */
+.cercleicon {
+  margin-right: 10px;
+}
+    
+.widthheightcercleicons {
+  width: 42px;
+  height: 42px;
+}
+
