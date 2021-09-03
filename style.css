@@ -267,3 +267,12 @@ figcaption p {
   font-size: 12px;
   padding: 3px;
 }
+
+/* Footer */
+footer {
+  background-color: #F2F2F2;
+}
+    
+li {
+  list-style: none;
+}
