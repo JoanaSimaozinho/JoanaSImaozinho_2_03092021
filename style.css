@@ -8,6 +8,7 @@
 
 body {
   font-family: 'Raleway';
+  margin: 0;
 }
       
 main {
@@ -92,6 +93,10 @@ main {
 .alignitemscenter {
   align-items: center;
 }
+
+.displaywrap {
+  flex-wrap: wrap;
+}
     
 /* Header */
 .borderhebergements {
@@ -150,6 +155,10 @@ main {
   height: 42px;
   margin-top: 10px;
   transition: 2s;
+}
+
+.gap {
+  gap: 12px;
 }
     
 .border {
