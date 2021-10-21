@@ -147,6 +147,10 @@ main {
 .height50 { 
   height: 50px;
 }
+
+.width40 {
+  width: 40%;
+}
     
 /* Filtres */
 /* utilisé pour les filtres et l'icon info */
@@ -221,6 +225,8 @@ main {
 .margintop60 {
   margin-top: 60px;
 }
+
+.height
   
 /*Hébèrgements à Marseille */
 .pointer {
